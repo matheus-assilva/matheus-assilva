@@ -41,5 +41,5 @@
 ## Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-assilva/)](https://www.linkedin.com/in/matheus-assilva/)
-[![Gmail Badge](https://img.shields.io/badge/-e-mail-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheusaugustosouza9@gmail.com)](mailto:matheusaugustosouza9@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-gmail-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheusaugustosouza9@gmail.com)](mailto:matheusaugustosouza9@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/matheus-assilva?label=follow&style=social)](https://github.com/matheus-assilva)
