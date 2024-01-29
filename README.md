@@ -3,7 +3,7 @@
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando {Análise e Desenvolvimento de Sistemas} na Faculdades Anhanguera.
+- 🎓 Graduado em Engenharia de Automação e Controle e estudando Análise e Desenvolvimento de Sistemas na Faculdades Anhanguera.
 - 💼 Procurando uma oportunidade como estagiário.
 - 🌱 Aprendendo mais sobre Python, JavaScript, HTML5, CSS, C#.
 
