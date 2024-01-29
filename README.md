@@ -34,12 +34,12 @@
 
 <br/>
 
-<a href="https://github.com/iuricode" title="Perfil do Iuri">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
+<a href="https://github.com/matheus-assilva" title="Perfil do Matheus">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheus-assilva&theme=dracula&show_icons=true" />
 </a>
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-assilva/)](https://www.linkedin.com/in/matheus-assilva/)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheus_augustosouza@hotmail.com)](mailto:matheus_augustosouza@hotmail.com)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/matheus-assilva)
+[![Linkedin](https://img.shields.io/badge/-Matheus-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-assilva/)](https://www.linkedin.com/in/matheus-assilva/)
+[![Gmail Badge](https://img.shields.io/badge/-matheusaugustosouza9@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheusaugustosouza9@gmail.com)](mailto:matheusaugustosouza9@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/matheus-assilva?label=follow&style=social)](https://github.com/matheus-assilva)
